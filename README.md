@@ -145,7 +145,7 @@ NOTE: Untuk pull murni, perkiraan jumlah tidak menentu dikarenakan bulanan reset
 
 `*` = Lihat rumus hasil pull murni diatas untuk 1 patch (41 hari)
 
-[Total yang didapatkan]
+### Total yang didapatkan
 
 53 atau 68
 
@@ -157,7 +157,7 @@ NOTE: Untuk pull murni, perkiraan jumlah tidak menentu dikarenakan bulanan reset
 
 `*` = Lihat rumus hasil pull murni diatas untuk 1 patch (41 hari)
 
-[Total yang didapatkan]
+### Total yang didapatkan
 
 30 atau 45
 
