@@ -133,6 +133,8 @@ NOTE: Untuk pull murni, perkiraan jumlah tidak menentu dikarenakan bulanan reset
 
 # Kesimpulan total pull murni (biasa dan spesial) dalam 1 patch (41 hari)
 
+**NOTE**: Data berikut belum termasuk penghasilan dari event dan lain-lain
+
 ## Pull spesial
 
 ### User punya express supply pass
