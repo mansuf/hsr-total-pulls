@@ -1,3 +1,5 @@
+**NOTE**: DATA DIBAWAH INI VALID, JIKA USER SUDAH MEMASUKI EQUILIBRIUM LEVEL 5
+
 # Penghasilan Stellar jade dalam 1 bulan
 
 ## Daily tasks
