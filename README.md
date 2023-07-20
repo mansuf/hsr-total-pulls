@@ -168,6 +168,4 @@ NOTE: Untuk pull murni, perkiraan jumlah tidak menentu dikarenakan bulanan reset
 
 ## Pull biasa
 
-12 atau 17* 
-
-`*` = Lihat rumus hasil pull murni diatas untuk 1 patch (41 hari)
+12 atau 17
