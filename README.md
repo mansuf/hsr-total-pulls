@@ -76,7 +76,7 @@ Perhitungan berikut dihitung mulai dari awal update patch
 
 Hadiah dari simulated universe per minggu = 195
 
-195 * 4 minggu (1 bulan) = 975
+195 * 5 minggu = 975
 
 ### Total
 
