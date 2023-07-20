@@ -24,15 +24,15 @@ Hadiah dari simulated universe per minggu = 195
 
 # Penghasilan pull murni (biasa dan spesial) tanpa stellar jade dalam 1 bulan
 
-[Pull spesial]
+## Pull spesial
 
 5 = Embers exchange
 
-[Total]
+### Total
 
 5
 
-[Pull biasa]
+## Pull biasa
 
 5 = Embers exchange
 
@@ -40,7 +40,7 @@ Hadiah dari simulated universe per minggu = 195
 
 2 = 4 herta bond dari simulated universe selama 4 minggu
 
-[Total]
+### Total
 
 11
 
@@ -105,11 +105,11 @@ NOTE: Untuk pull murni, perkiraan jumlah tidak menentu dikarenakan bulanan reset
 
 0* / 10 = 1 minggu login setelah update patch
 
-[Total]
+### Total
 
 5 / 10
 
-[Note]
+### Note
 
 `*` = Kenapa 0 ? dikarenakan kita belom yakin hoyoverse bakal ngasih terus berkah 10 pull spesial untuk 1 minggu bisa saja mereka menghilangkan berkah tersebut di update selanjutnya (tapi ya jangan lah asu).
 
@@ -121,7 +121,7 @@ NOTE: Untuk pull murni, perkiraan jumlah tidak menentu dikarenakan bulanan reset
 
 2 = 5 herta bond dari simulated universe selama 5 minggu
 
-[Total]
+### Total
 
 12 / 17
 
