@@ -20,7 +20,7 @@ Hadiah dari simulated universe per minggu = 195
 
 195 * 4 minggu (1 bulan) = 780
 
-## Total
+### Total
 
 5280 (express supply pass + daily tasks + simulated universe)
 
