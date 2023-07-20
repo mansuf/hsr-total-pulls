@@ -8,6 +8,8 @@
 
 150 * 30 hari (waktu habis express supply) = 4500
 
+### Total
+
 4500 (express supply pass + daily tasks)
 
 1800 (daily tasks saja)
@@ -17,6 +19,8 @@
 Hadiah dari simulated universe per minggu = 195
 
 195 * 4 minggu (1 bulan) = 780
+
+## Total
 
 5280 (express supply pass + daily tasks + simulated universe)
 
