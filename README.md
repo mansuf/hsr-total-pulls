@@ -46,10 +46,11 @@ Hadiah dari simulated universe per minggu = 195
 
 11
 
+## Kesimpulan
 
 5 Pull spesial (Embers exchange)
 
-5 Pull biasa (Embers exchange
+11 Pull biasa (Embers exchange + simulated universe + herta bond)
 
 ---------------------------------------------------------------------------------------------
 
