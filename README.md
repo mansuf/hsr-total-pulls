@@ -59,13 +59,11 @@ Perhitungan berikut dihitung mulai dari awal update patch
 
 90 (express supply pass) + 60 (daily tasks) = 150 
 
-150 * 30 hari (waktu habis express supply) = 4500
-
 ### Total
 
-6150 (express supply pass + daily tasks)
+150 * 41 hari = 6150 (express supply pass + daily tasks)
 
-2460 (daily tasks saja)
+60 * 41 hari = 2460 (daily tasks saja)
 
 ## Simulated Universe
 
