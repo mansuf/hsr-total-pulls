@@ -18,25 +18,20 @@ Perhitungan berikut dihitung mulai dari awal update patch
 
 Hadiah dari simulated universe per minggu = 195
 
-195 * 5 minggu = 975
-
 ### Total
 
-7125 (express supply pass + daily tasks + simulated universe)
-
-3435 (daily tasks + simulated universe)
+195 * 5 minggu = 975
 
 ## Login setelah update (Login after update gift)
 
-300 * 2 = 600 (Berkah dari hoyoverse setelah update)
+Hadiah ini bisa didapatkan di in-game message box. Tiap hadiah berisi 300 stellar jade. 
+Total hadiah yang bisa didapatkan yaitu 600 stellar jade.
 
-NOTE: Penghasilan stellar jade dari update gift bisa saja berkurang jika player tidak login selama 1 - 7 hari setelah update tersebut keluar
+### Total
 
-### Total 
+300 * 2 = 600
 
-7725 (Login after update gift + express supply pass + daily tasks + Simulated universe)
-
-4035 (Login after update gift + daily tasks + simulated universe)
+**NOTE:** Penghasilan stellar jade dari update gift bisa saja berkurang jika player tidak login selama 1 - 7 hari setelah update tersebut keluar
 
 ## Gift dari stream update versi baru di twitch.tv
 
@@ -44,13 +39,9 @@ Gift ini berisi kode yang bisa di redeem di in-game atau website.
 Biasanya kode ini diberikan 6 hari sebelum patch baru update ketika hoyoverse melakukan streaming tentang informasi patch baru di twitch.tv. 
 Tiap gift berisi 100 stellar jade, total gift yang diberikan pada "stream update versi baru" tersebut adalah 3.
 
-100 * 3 = 300
-
 ### Total
 
-8025 (Update stream gift + login after update gift + express supply pass + daily tasks + simulated universe)
-
-4335 (Update stream gift + login after update gift + daily tasks + simulated universe)
+100 * 3 = 300
 
 ## Hoyolob daily login
 
@@ -59,15 +50,25 @@ Tiap check-in bisa mendapatkan 20 stellar jade.
 
 Hadiah stellar jade tersebut bisa didapatkan di hari ke 5, 13, dan 20 check in.
 
-20 * 3 = 60
-
 ### Total
 
-8085 (Hoyolab daily login + Update stream gift + login after update gift + express supply pass + daily tasks + simulated universe)
+20 * 3 = 60
 
-4395 (Hoyolab daily login + Update stream gift + login after update gift + daily tasks + simulated universe)
+## Kesimpulan
 
-NOTE: DATA DIATAS BELUM TERMASUK EVENT DAN LAIN LAIN
+**Jika user mempunyai express supply pass**
+
+6150 + 975 + 600 + 300 + 60 = 8085
+
+(Daily tasks dengan express supply pass + simulated universe + login after update gift + update stream gift + hoyolab daily login)
+
+**Jika user TIDAK mempunyai express supply pass**
+
+2460 + 975 + 600 + 300 + 60 = 4395
+
+(Daily tasks + simulated universe + login after update gift + update stream gift + hoyolab daily login)
+
+**NOTE:** DATA DIATAS BELUM TERMASUK EVENT DAN LAIN LAIN
 
 ---------------------------------------------------------------------------------------------
 
