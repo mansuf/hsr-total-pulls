@@ -100,9 +100,9 @@ NOTE: Untuk pull murni didapatkan dari embers exchange, perkiraan jumlah tidak m
 
 ```
 5 atau 20
-
-* = Kenapa 0 ? dikarenakan kita belom yakin hoyoverse bakal ngasih terus berkah 10 pull spesial untuk 1 minggu bisa saja mereka menghilangkan berkah tersebut di update selanjutnya (tapi ya jangan lah asu).
 ```
+
+`*` = Kenapa 0 ? dikarenakan kita belom yakin hoyoverse bakal ngasih terus berkah 10 pull spesial untuk 1 minggu bisa saja mereka menghilangkan berkah tersebut di update selanjutnya (tapi ya jangan lah asu).
 
 ## Pull biasa
 
