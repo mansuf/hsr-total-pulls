@@ -10,9 +10,11 @@ Perhitungan berikut dihitung mulai dari awal update patch
 
 ### Total
 
+```
 150 * 41 hari = 6150 (express supply pass + daily tasks)
 
 60 * 41 hari = 2460 (daily tasks saja)
+```
 
 ## Simulated Universe
 
@@ -20,7 +22,9 @@ Hadiah dari simulated universe per minggu = 195
 
 ### Total
 
+```
 195 * 5 minggu = 975
+```
 
 ## Login setelah update (Login after update gift)
 
@@ -29,7 +33,9 @@ Total hadiah yang bisa didapatkan yaitu 600 stellar jade.
 
 ### Total
 
+```
 300 * 2 = 600
+```
 
 **NOTE:** Penghasilan stellar jade dari update gift bisa saja berkurang jika player tidak login selama 1 - 7 hari setelah update tersebut keluar
 
@@ -41,7 +47,9 @@ Tiap gift berisi 100 stellar jade, total gift yang diberikan pada "stream update
 
 ### Total
 
+```
 100 * 3 = 300
+```
 
 ## Hoyolob daily login
 
@@ -52,7 +60,9 @@ Hadiah stellar jade tersebut bisa didapatkan di hari ke 5, 13, dan 20 check in.
 
 ### Total
 
+```
 20 * 3 = 60
+```
 
 ## Kesimpulan
 
