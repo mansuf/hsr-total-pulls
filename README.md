@@ -51,7 +51,7 @@ Tiap gift berisi 100 stellar jade, total gift yang diberikan pada "stream update
 100 * 3 = 300
 ```
 
-## Hoyolob daily login
+## Hoyolab daily login
 
 Tiap bulan hoyolab memberi total 60 stellar jade jika rajin check in di hoyolab honkai: star rail. 
 Tiap check-in bisa mendapatkan 20 stellar jade.
@@ -88,25 +88,25 @@ Hadiah stellar jade tersebut bisa didapatkan di hari ke 5, 13, dan 20 check in.
 
 # Penghasilan pull murni (biasa dan spesial) tanpa stellar jade dalam 1 patch (41 hari)
 
-NOTE: Untuk pull murni, perkiraan jumlah tidak menentu dikarenakan bulanan reset untuk pull spesial dan pull biasa bisa saja di ambil 2 kali dalam 2 bulan
+NOTE: Untuk pull murni didapatkan dari embers exchange, perkiraan jumlah tidak menentu dikarenakan bulanan reset untuk pull spesial dan pull biasa bisa saja di ambil 2 kali dalam 2 bulan
 
 ## Pull spesial
 
-5 / 10 = Embers exchange
+5 atau 10 = Embers exchange
 
-0* / 10 = 1 minggu login setelah update patch
+0* atau 10 = 1 minggu login setelah update patch
 
 ### Total
 
-5 / 10
+```
+5 atau 20
 
-### Note
-
-`*` = Kenapa 0 ? dikarenakan kita belom yakin hoyoverse bakal ngasih terus berkah 10 pull spesial untuk 1 minggu bisa saja mereka menghilangkan berkah tersebut di update selanjutnya (tapi ya jangan lah asu).
+* = Kenapa 0 ? dikarenakan kita belom yakin hoyoverse bakal ngasih terus berkah 10 pull spesial untuk 1 minggu bisa saja mereka menghilangkan berkah tersebut di update selanjutnya (tapi ya jangan lah asu).
+```
 
 ## Pull biasa
 
-5 / 10 = Embers exchange
+5 atau 10 = Embers exchange
 
 5 = 1 pull x 5 minggu dari simulated universe (1 patch = 5 minggu lebih)
 
@@ -114,11 +114,17 @@ NOTE: Untuk pull murni, perkiraan jumlah tidak menentu dikarenakan bulanan reset
 
 ### Total
 
-12 / 17
+```
+12 atau 17
+```
 
-5 / 20 Pull spesial (Embers exchange)
+## Kesimpulan
 
-12 / 17 Pull biasa (Embers exchange, Simulated Universe, Herta Bond)
+```
+5 atau 20 Pull spesial (Embers exchange)
+
+12 atau 17 Pull biasa (Embers exchange, Simulated Universe, Herta Bond)
+```
 
 ---------------------------------------------------------------------------------------------
 
@@ -130,28 +136,38 @@ NOTE: Untuk pull murni, perkiraan jumlah tidak menentu dikarenakan bulanan reset
 
 ### User punya express supply pass
 
-8085 / 160 (harga 1 pull spesial) = 50 (sisa 85 stellar jade)
+```
+8085 atau 160 (harga 1 pull spesial) = 50 (sisa 85 stellar jade)
 
 5 atau 20* (embers exchange, 1 minggu login)
 
-`*` = Lihat rumus hasil pull murni diatas untuk 1 patch (41 hari)
+* = Lihat rumus hasil pull murni diatas untuk 1 patch (41 hari)
+```
 
 ### Total yang didapatkan
 
+```
 55 atau 70
+```
 
 ### User TIDAK punya express supply pass
 
-4395 / 160 (harga 1 pull spesial) = 27 (sisa 75 stellar jade)
+```
+4395 atau 160 (harga 1 pull spesial) = 27 (sisa 75 stellar jade)
 
 5 atau 20* (embers exchange, 1 minggu login)
 
-`*` = Lihat rumus hasil pull murni diatas untuk 1 patch (41 hari)
+* = Lihat rumus hasil pull murni diatas untuk 1 patch (41 hari)
+```
 
 ### Total yang didapatkan
 
+```
 32 atau 47
+```
 
 ## Pull biasa
 
+```
 12 atau 17
+```
