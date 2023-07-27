@@ -58,13 +58,17 @@ Hadiah stellar jade tersebut bisa didapatkan di hari ke 5, 13, dan 20 check in.
 
 **Jika user mempunyai express supply pass**
 
+```
 6150 + 975 + 600 + 300 + 60 = 8085
+```
 
 (Daily tasks dengan express supply pass + simulated universe + login after update gift + update stream gift + hoyolab daily login)
 
 **Jika user TIDAK mempunyai express supply pass**
 
+```
 2460 + 975 + 600 + 300 + 60 = 4395
+```
 
 (Daily tasks + simulated universe + login after update gift + update stream gift + hoyolab daily login)
 
