@@ -84,7 +84,7 @@ Hadiah dari simulated universe per minggu = 195
 
 3435 (daily tasks + simulated universe)
 
-## Login setelah update (Update gift)
+## Login setelah update (Login after update gift)
 
 300 * 2 = 600 (Berkah dari hoyoverse setelah update)
 
@@ -92,9 +92,38 @@ NOTE: Penghasilan stellar jade dari update gift bisa saja berkurang jika player 
 
 ### Total 
 
-7725 (Update gift + express supply pass + daily tasks + Simulated universe)
+7725 (Login after update gift + express supply pass + daily tasks + Simulated universe)
 
-4035 (Update gift + daily tasks + simulated universe)
+4035 (Login after update gift + daily tasks + simulated universe)
+
+## Gift dari stream update versi baru di twitch.tv
+
+Gift ini berisi kode yang bisa di redeem di in-game atau website. 
+Biasanya kode ini diberikan 6 hari sebelum patch baru update ketika hoyoverse melakukan streaming tentang informasi patch baru di twitch.tv. 
+Tiap gift berisi 100 stellar jade, total gift yang diberikan pada "stream update versi baru" tersebut adalah 3.
+
+100 * 3 = 300
+
+### Total
+
+8025 (Update stream gift + login after update gift + express supply pass + daily tasks + simulated universe)
+
+4335 (Update stream gift + login after update gift + daily tasks + simulated universe)
+
+## Hoyolob daily login
+
+Tiap bulan hoyolab memberi total 60 stellar jade jika rajin check in di hoyolab honkai: star rail. 
+Tiap check-in bisa mendapatkan 20 stellar jade.
+
+Hadiah stellar jade tersebut bisa didapatkan di hari ke 5, 13, dan 20 check in.
+
+20 * 3 = 60
+
+### Total
+
+8085 (Hoyolab daily login + Update stream gift + login after update gift + express supply pass + daily tasks + simulated universe)
+
+4395 (Hoyolab daily login + Update stream gift + login after update gift + daily tasks + simulated universe)
 
 NOTE: DATA DIATAS BELUM TERMASUK EVENT DAN LAIN LAIN
 
@@ -144,7 +173,7 @@ NOTE: Untuk pull murni, perkiraan jumlah tidak menentu dikarenakan bulanan reset
 
 ### User punya express supply pass
 
-7725 / 160 (harga 1 pull spesial) = 48 (sisa 45 stellar jade)
+8085 / 160 (harga 1 pull spesial) = 50 (sisa 85 stellar jade)
 
 5 atau 20* (embers exchange, 1 minggu login)
 
@@ -152,11 +181,11 @@ NOTE: Untuk pull murni, perkiraan jumlah tidak menentu dikarenakan bulanan reset
 
 ### Total yang didapatkan
 
-53 atau 68
+55 atau 70
 
 ### User TIDAK punya express supply pass
 
-4035 / 160 (harga 1 pull spesial) = 25 (sisa 35 stellar jade)
+4395 / 160 (harga 1 pull spesial) = 27 (sisa 75 stellar jade)
 
 5 atau 20* (embers exchange, 1 minggu login)
 
@@ -164,7 +193,7 @@ NOTE: Untuk pull murni, perkiraan jumlah tidak menentu dikarenakan bulanan reset
 
 ### Total yang didapatkan
 
-30 atau 45
+32 atau 47
 
 ## Pull biasa
 
