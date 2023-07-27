@@ -137,7 +137,7 @@ NOTE: Untuk pull murni didapatkan dari embers exchange, perkiraan jumlah tidak m
 ### User punya express supply pass
 
 ```
-8085 atau 160 (harga 1 pull spesial) = 50 (sisa 85 stellar jade)
+8085 / 160 (harga 1 pull spesial) = 50 (sisa 85 stellar jade)
 
 5 atau 20* (embers exchange, 1 minggu login)
 
@@ -153,7 +153,7 @@ NOTE: Untuk pull murni didapatkan dari embers exchange, perkiraan jumlah tidak m
 ### User TIDAK punya express supply pass
 
 ```
-4395 atau 160 (harga 1 pull spesial) = 27 (sisa 75 stellar jade)
+4395 / 160 (harga 1 pull spesial) = 27 (sisa 75 stellar jade)
 
 5 atau 20* (embers exchange, 1 minggu login)
 
